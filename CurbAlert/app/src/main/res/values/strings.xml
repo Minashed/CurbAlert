@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">CurbAlert</string>
+    <string name="app_name">CurbAlert!</string>
+    <string name="mainScreen_password_text">Password</string>
+    <string name="mainScreen_username_text">Username</string>
+    <string name="mainScreen_log_in_button_text">Log In!</string>
+    <string name="mainScreen_don_t_have_an_account_text">Don\'t have an account?</string>
+    <string name="mainScreen_sign_up_button">Sign Up.</string>
 </resources>
